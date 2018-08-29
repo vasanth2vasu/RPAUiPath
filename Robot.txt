@@ -1,0 +1,13 @@
+{
+      	"LicenseKey": "3d29c28a-bda7-43c1-a097-76039b002405",
+      	"MachineName": "ws0413ho",  
+	"MachineId": 24619,  
+	"Name": "vsankar",  
+	"Username": "allianzire\\vsankara",  
+	"Description": "vsankar",  
+	"Type": "Development",  
+	"Password": "allianz01",
+      	"RobotEnvironments": "new",
+      	"Id": 36782,
+      	"ExecutionSettings": null
+}
